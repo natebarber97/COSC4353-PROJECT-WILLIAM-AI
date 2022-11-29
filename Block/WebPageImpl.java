@@ -1,4 +1,4 @@
-package Proxy;
+package Block;
 
 public class WebPageImpl implements WebPage {
     @Override

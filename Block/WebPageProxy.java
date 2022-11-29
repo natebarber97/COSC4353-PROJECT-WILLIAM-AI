@@ -1,4 +1,4 @@
-package Proxy;
+package Block;
 
 public class WebPageProxy implements WebPage {
     private WebPage webPage; 
